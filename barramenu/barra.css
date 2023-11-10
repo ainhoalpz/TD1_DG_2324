@@ -1,0 +1,54 @@
+.contenedor { 
+    width: 1200px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.c{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.c1{ background-color: rgb(181, 121, 159);}
+
+.c2 {background-color: rgb(243, 251, 218);}
+
+.c3 {background-color:rgb(175, 203, 255)}
+
+.c4 {background-color:rgb(130, 132, 109);}
+
+.c5 {background-color: rgb(191, 176, 185)}
+
+.c6 {background-color:rgb(73, 56, 67)}
+
+
+.icono{ text-align: center;
+    font-size: 30px;
+    margin-top: 30%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.texto{ text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.links { padding-left: 40px;
+    color: rgb(121, 181, 177);
+}
+
+.contenedor2{ font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    }
+
+a:hover {color: rgb(119, 162, 114);}
+
+a:active{color: rgb(52, 0, 80);}
+
+a:visited{color: rgba(162, 43, 205, 0.72);}
