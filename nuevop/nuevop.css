@@ -57,7 +57,7 @@
 
 .imagen{
     margin-top: 30%;
-     width: 50%;
+     width: 80%;
     filter: grayscale() drop-shadow(0px 0px 100px blue);
 
 }
