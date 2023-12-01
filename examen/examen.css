@@ -1,0 +1,124 @@
+*{margin: 0;}
+
+
+.headeriniciales{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.iniciales{ font-family:'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    font-size: 500%;
+    color: rgb(42, 69, 165);
+    
+}
+
+
+.menu{ width: 97%;
+    height: 50px;
+    margin-right: 2%;
+    margin-left: 2%;
+    display: flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+    
+}
+
+.menu2{ display: flex;
+  
+}
+
+.lista{ list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right:30px ;
+    font-size: 130%;
+
+  
+   
+}
+
+.linc {list-style: none;
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover{ font-weight: bold; margin-right: 5px;
+}
+
+.imagengrande{ 
+    position: relative;
+    height: 350px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-size: 100%;
+    background-image: url(img/DSC02945-1229x1536.jpg);
+    background-repeat:no-repeat ;
+
+   
+    
+}
+
+.box1{display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+.box2{
+    display: flex;
+    justify-content:start;
+    align-items: end;
+
+
+}
+
+
+.Ainhoa{font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 200%;  
+    padding: 135px;
+    align-self: center;
+}
+
+.black{ color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    margin-left: 20PX;
+
+}
+
+
+
+.box3{ 
+     margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+
+
+}
+
+
+.imagenes{  padding-left: 9%;
+    padding-bottom: 9% ;
+
+
+}
+
+
+.imagen1{flex-wrap:wrap ;
+
+
+}
