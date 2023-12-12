@@ -1,0 +1,156 @@
+/* header */
+
+body{margin: 0;
+padding: 0;}
+
+.header{
+width: 100%;
+height: 70px;
+background-color: rgb(1, 49, 69);
+position: fixed;
+}
+
+.logopais{
+    position: absolute;
+    height: 30px;
+   margin-top: 20px;
+   margin-left: 20px;
+ 
+}
+
+
+.THINK{
+    position: absolute;
+margin-left: 45%;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    padding-top: 10;
+
+
+.otrocolor{color: darkseagreen;}
+
+}
+
+.UNPROYECTO { 
+    position: absolute;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    color: aliceblue;
+    margin-left: 85%;
+    margin-top: 30px;
+ }
+
+.empresas { height: 50px;
+    margin-left: 90%;
+    margin-top: 10px;
+}
+  
+ /* imagen */
+
+ .primeraimagen {
+width: 100%;
+padding-top: 70px;
+
+ }
+
+  /* Titular */
+
+ .BOX1 {
+    width: 700px;
+    align-items: center;
+    margin-left: 27%;
+
+ }
+
+ .Titular {
+  
+    text-align: center;
+    font-weight: 1;
+    font-size: 70;
+}
+
+.subtítulo {text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/*articulo*/
+
+
+
+p:first-child::first-letter{font-size: 600%;
+    float: left;
+     margin-right: 25 ;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+   
+
+    
+
+}
+
+.PRIMERPARRAFO{
+    width: 700PX;
+    margin-left: 27%;
+    font-size: 18px;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+
+ 
+}
+
+.imagen2{width: 900px;
+ margin-left: 23%;
+}
+
+.TITULO{ margin-left: 27%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 40;
+}
+
+/*LINKS*/
+
+a{color: black; 
+    font-weight: bolder;
+border-bottom: dotted;
+text-decoration: none;
+}
+
+/*IMAGENESARTCIULO*/
+
+.imagen3{width: 700px;
+    margin-left: 27%;
+    margin-top: 30px;
+
+}
+
+
+
+li{width: 700PX;
+    margin-left: 27%;
+    font-size: 18px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    list-style: none;
+    
+}
+
+    /* de esta manera no tengo que poner class en cada párrafo, pero no se si está correcto
+    p{width: 700PX;
+        margin-left: 27%;
+        font-size: 18px;
+        margin-top: 80px;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 2;}
+        */
+
+
+        a:hover{ padding: 4px;
+
+        }
