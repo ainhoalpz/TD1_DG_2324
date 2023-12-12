@@ -1,0 +1,108 @@
+*{ 
+  
+
+    background-color:rgb(203, 158, 234);
+    
+}
+
+.contenedor{display: flex;
+    width: 100%;
+    height: auto;
+  
+    
+}
+
+.caja{
+     margin: 1%;
+    width: 30%;
+    padding: 10px;
+    text-align:left;
+    background-color: rgb(223, 243, 162);
+    justify-content: center;
+
+
+}
+
+.texto1{ 
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 20px;
+    background-color: rgb(223, 243, 162);
+
+}
+
+.texto2{     margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'DM Serif Display', serif;
+    font-size: 17px;
+    background-color: rgb(223, 243, 162);
+
+
+}
+
+.texto3{    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Jost', sans-serif;
+    font-size: 17px;
+    background-color: rgb(223, 243, 162);
+
+}
+
+
+.texto4{    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Kalnia', serif;
+    font-size: 17px;
+    background-color: rgb(223, 243, 162);
+
+}
+
+.texto5{    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Playfair', serif;
+    background-color: rgb(223, 243, 162);
+
+}
+
+.texto6{    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Poiret One', sans-serif;
+    background-color: rgb(223, 243, 162);
+
+}
+
+.texto7 {
+    margin-left: 2%;
+    margin-right: 2%;
+font-family: 'Rubik Mono One', monospace;
+    font-size: 14px;
+    background-color: rgb(223, 243, 162);
+
+
+}
+
+.texto8 {    margin-left: 2%;
+    margin-right: 2%;
+font-family: 'Sora', sans-serif;
+    background-color: rgb(223, 243, 162);
+
+
+}
+
+.texto9 {    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Voltaire', sans-serif;
+    background-color: rgb(223, 243, 162);
+
+}
+
+i{
+    background-color: rgb(223, 243, 162);
+}
