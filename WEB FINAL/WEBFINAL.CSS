@@ -1,0 +1,35 @@
+html{
+
+   cursor: url(img/CURSOR.png), auto;
+
+   a:hover{ cursor: url(img/8cursor\ 2.png), auto ; }
+
+}
+a:hover{ cursor: url(img/8cursor\ 2.png), auto ; }
+  
+.portada{width: 70%;
+    padding-left: 5%;
+    padding-top: 2%;
+
+}
+.Projects{
+    margin-top: 30%;
+    width: 20%;
+    padding-left: 40%;
+
+
+}
+
+.Contacto{
+    width: 20%;
+   padding-left: 20%;
+   padding-top: 6%;
+}
+
+.Redes { width: 20%;
+    padding-left: 70%;
+
+
+}
+
+.Quien{width: 30%;}
