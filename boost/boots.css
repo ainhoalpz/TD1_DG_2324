@@ -1,0 +1,43 @@
+.col{
+
+    border: solid black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 130%;
+    padding: 2%;
+   
+}
+
+.container{padding-bottom: 5%;
+
+}
+
+
+.imagen{width: 100%;}
+
+.titulo{
+    padding: 3%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+
+}
+
+.link{text-decoration: none;
+color: black;}
+ 
+
+.alert{     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 140%;
+    margin-left: 5%;
+    margin-right: 5%;
+border: solid black;
+border-radius: 20px;
+padding: 3%;
+}
+
+.link2{
+    color: black;
+}
+
+.card-title{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.navbar{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
